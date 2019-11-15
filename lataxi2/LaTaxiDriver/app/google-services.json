@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "78077705434",
+    "firebase_url": "https://lataxi-51be5.firebaseio.com",
+    "project_id": "lataxi-51be5",
+    "storage_bucket": "lataxi-51be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78077705434:android:ca7652e6e8b16fc5",
+        "android_client_info": {
+          "package_name": "hello.mother.fucker.biatch.son.of.bitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78077705434-lkmavad72g9h23dvb96mh46l4i4t2btm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hello.mother.fucker.biatch.son.of.bitch",
+            "certificate_hash": "a17b4464a26ab2fe954f6aeaff00e18e77d5a650"
+          }
+        },
+        {
+          "client_id": "78077705434-jpt83kkmnkmctaecnke1ot72mv6m1nmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVuW3DeruOJ-Jl1ykcHThRr2QlcqEFQrU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78077705434-jpt83kkmnkmctaecnke1ot72mv6m1nmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
